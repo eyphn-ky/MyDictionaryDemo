@@ -1,0 +1,7 @@
+C:\Users\eyuph\source\repos\MyDictionaryDemo\bin\Debug\MyDictionaryDemo.exe.config
+C:\Users\eyuph\source\repos\MyDictionaryDemo\bin\Debug\MyDictionaryDemo.exe
+C:\Users\eyuph\source\repos\MyDictionaryDemo\bin\Debug\MyDictionaryDemo.pdb
+C:\Users\eyuph\source\repos\MyDictionaryDemo\obj\Debug\MyDictionaryDemo.csprojAssemblyReference.cache
+C:\Users\eyuph\source\repos\MyDictionaryDemo\obj\Debug\MyDictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\eyuph\source\repos\MyDictionaryDemo\obj\Debug\MyDictionaryDemo.exe
+C:\Users\eyuph\source\repos\MyDictionaryDemo\obj\Debug\MyDictionaryDemo.pdb
